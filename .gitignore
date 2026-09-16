@@ -1,0 +1,15 @@
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+build/
+dist/
+*.egg-info/
+*.log
+.env
+.env.*
+*.pkl
+*.joblib
